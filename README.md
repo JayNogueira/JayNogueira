@@ -1,8 +1,7 @@
 ### Hello 👋
 
-[![Visits Badge](https://badges.strrl.dev/visits/JayNogueira/JayNogueira})](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/JayNogueira/JayNogueira)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/JayNogueira)](https://badges.strrl.dev)
-[![Public Repos Badge](https://badges.strrl.dev/repos/JayNogueira)](https://badges.strrl.dev)
 
 <img align="right" width="40%" src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif" alt="Basecamp sky" />
 
