@@ -78,8 +78,6 @@ I'm Jay, Front-end Staff Engineer from Brazil <img width="30" src="https://emoji
 
 <br/>
 
-## <img height="32" src="https://emojis.slackmojis.com/emojis/images/1589323974/9036/stonks.png?1589323974" title="Stonks!!!" alt="More"/> - GitHub Stats
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=JayNogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/JayNogueira/github-readme-stats)
 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=Jailsom-Nogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/Jailsom-Nogueira/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsom-Nogueira&count_private=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Jailsom-Nogueira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNogueira&count_private=true&theme=vision-friendly-dark&layout=compact)](https://github.com/JayNogueira/github-readme-stats)
