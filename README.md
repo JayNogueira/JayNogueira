@@ -72,12 +72,6 @@ I'm Jay, Front-end Staff Engineer from Brazil <img width="30" src="https://emoji
 
 <br/>
 
-## <img height="32" src="https://emojis.slackmojis.com/emojis/images/1603823074/11120/more.gif?1603823074" title="More!!!" alt="More"/> - More:
-
-- [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
-
-<br/>
-
 [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=JayNogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/JayNogueira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNogueira&count_private=true&theme=vision-friendly-dark&layout=compact)](https://github.com/JayNogueira/github-readme-stats)
