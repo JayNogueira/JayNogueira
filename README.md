@@ -69,9 +69,3 @@ I'm Jay, Front-end Staff Engineer from Brazil <img width="30" src="https://emoji
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png?1450448407" title="Trello" alt="Trello"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1561512161/5893/figma.png?1561512161" title="Figma" alt="Figma"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png?1450464730" title="Photoshop" alt="Photoshop"/></code>
-
-<br/>
-
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=JayNogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/JayNogueira/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNogueira&count_private=true&theme=vision-friendly-dark&layout=compact)](https://github.com/JayNogueira/github-readme-stats)
