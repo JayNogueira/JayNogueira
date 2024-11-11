@@ -5,7 +5,7 @@
 
 <img align="right" width="40%" src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif" alt="Basecamp sky" />
 
-I'm Jay, Front-end Staff Engineer from Brazil <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597609842/10046/brazilian_fan_parrot.gif?1597609842" alt="emoji blink" />
+I'm Jay, Tech Lead + Frontend Engineer from Brazil <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597609842/10046/brazilian_fan_parrot.gif?1597609842" alt="emoji blink" />
 
 📚 - I started my professional career as a developer in 2012 and since then I've worked with the most diverse technologies and web projects. I've helped to develop from large financial portals to automation with microcontrollers.
 
